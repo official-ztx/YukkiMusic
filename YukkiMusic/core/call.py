@@ -12,7 +12,8 @@ from typing import Union
 
 from ntgcalls import TelegramServerError
 from pyrogram.types import InlineKeyboardMarkup
-from pytgcalls import PyTgCalls, filters
+from pytgcalls import PyTgCalls, StreamType
+
 from pytgcalls.exceptions import AlreadyJoinedError, NoActiveGroupCall
 from pytgcalls.types import (
     ChatUpdate,
