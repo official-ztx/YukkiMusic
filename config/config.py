@@ -176,7 +176,7 @@ SET_CMDS = getenv("SET_CMDS", "False")
 
 
 # You'll need a Pyrogram String Session for these vars. Generate String from our session generator bot @YukkiStringBot
-STRING_SESSIONS = list(map(str.strip, getenv("STRING_SESSIONS", None).split(",")))
+STRING_SESSIONS = list(map(str.strip, getenv("BQGWS8YAcExf2Cp-m9-Z388GFSKeUyXsv-rauB0jNKp6BQRnlxZoflKYQJsUDpk0ii2VAAmduJZ79ncqyuejJyckRijhrWkWzQdbFiz-eH95xLciXrPprMBVDDup95_s81jAjIWJ2zO0_Vvg7RMNIY0weyX36A66oL9KS9GlkZb0tGOFrXJZG1qeio5LsvP1j8adtmGhcA_P6l8CXB8mMU-L_P21bFOIsgqlUTfYuhNPbsjZx-oTKNsr1Mf51XR7pGiYbdUIf9t9dCIsyAg_jKEyoBeTAvfn8UDCp2mnVMgiR8nYRmOZh3sRwrXcrFArpcZD-v49NFm-pUfsj1xZk6L2D77zIwAAAAG-IuuuAA", None).split(",")))
 
 
 #  __     ___    _ _  ___  _______   __  __ _    _  _____ _____ _____
